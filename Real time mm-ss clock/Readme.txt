@@ -1,1 +1,1 @@
-Aim is to design a digital real time clock which displays time in mm-ss format
+Aim is to design a digital real time clock on LED displays which displays time in mm-ss format
